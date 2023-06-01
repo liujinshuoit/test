@@ -22,7 +22,7 @@ public class ThunderGame extends JFrame {
     private Enemy enemy;
 
     public ThunderGame() {
-        setTitle("雷电游戏");
+        setTitle("雷电游戏1");
         setSize(WIDTH, HEIGHT);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
